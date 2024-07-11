@@ -14,13 +14,13 @@
 
 body {
   width: 100vw;
-  background-image: url("../images/sakura-fall.png");
+  background-image: url("./images/sakura-fall.png");
   background-size: 10%;
 }
 
 .nav_hero {
   height: 100vh;
-  background-image: url(../images/hero_img.jpg);
+  background-image: url("./images/hero_img.jpg");
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -222,7 +222,7 @@ nav {
 }
 
 .about-img {
-  background-image: url("../images/about-flower-one.png");
+  background-image: url("./images/about-flower-one.png");
   background-size: 50%;
   background-repeat: no-repeat;
   background-position-x: left;
@@ -251,7 +251,7 @@ nav {
 
 .about-text {
   padding: 50px;
-  background-image: url("../images/about-flower.png");
+  background-image: url("./images/about-flower.png");
   background-size: 50%;
   background-repeat: no-repeat;
   background-position-x: right;
@@ -473,7 +473,7 @@ nav {
 /*booking start*/
 /*booking start*/
 .booking {
-  background-image: url("../images/booking.jpg");
+  background-image: url("./images/booking.jpg");
   background-repeat: no-repeat;
   background-size: cover; /* Ensure the background image covers the entire element */
   height: 50vh;
@@ -689,13 +689,13 @@ nav {
   }
 
   .about-img {
-    background-image: url("../images/about-flower.png");
+    background-image: url("./images/about-flower.png");
     background-position-x: right;
     background-position-y: top;
   }
 
   .about-text {
-    background-image: url("../images/about-flower-one.png");
+    background-image: url("./images/about-flower-one.png");
     background-position-x: left;
     background-position-y: bottom;
     padding-top: 0px;
